@@ -5,7 +5,6 @@ console.log("Scrpit By Dream");
 
 client.on("ready", () => {
 let channel =     client.channels.get("561611876769726476")
-let channel =     client.channels.get("561619609510215683")
 setInterval(function() {
 channel.send(`Mixwell Community by : @!                Mohamad_Doleh .#6334 Mixwell Community by : @!                Mohamad_Doleh .#6334`);
 }, 30)
